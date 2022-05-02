@@ -1,4 +1,4 @@
-#Práctica 1 libre  
+# Práctica 1 libre  
 ## Comentario del artículo *Mapping America's wicked weather and deadly disasters* de *The Washington Post*
 
 El reportaje *<a href="https://www.washingtonpost.com/graphics/2019/national/mapping-disasters/">Mapping America's wicked weather and deadly disasters</a>* de *The Washington Post* es un gran ejemplo del uso de periodismo de datos. 
