@@ -36,7 +36,7 @@ Esta última práctica consistía en crear un nuevo *notebook* de Python en Jupy
 
 En el siguiente archivo .md se encuentran los pasos que se han seguido para llevar a cabo el trabajo final. 
 
-- [Metodología]()
+- [Metodología](https://github.com/Pontedatos/AnabelCuevas/blob/f3ed988f6fe8a65cc9e0e1a5528bdee4fe59482e/metodologia.md)
 
 
 ## Resumen de lo aprendido en el curso
