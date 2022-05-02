@@ -1,0 +1,9 @@
+## Comentario estudio de TRESCA
+
+En segundo lugar se va a analizar un estudio perteneciente al proyecto TRESCA Horizonte 2020: *<a href="https://trescaproject.eu/2021/10/07/are-social-media-harmful-yes-say-most-europeans-but-its-complicated/"> “Are social media harmful? Yes, say most Europeans, but it’s complicated”</a>*.
+
+Este artículo habla sobre la relación entre las redes sociales y la salud mental, relacionándolo a su vez con la desinformación. Como se explica en el texto, cuando se manejan datos polémicos es clave cómo se presentan a la población, ya que puede ser fácilmente manipulable. De hecho, la ciudadanía es consciente de la importancia de verificar la información, y así lo muestra el gráfico que acompaña al artículo. Este indica el porcentaje de la población de países de la Unión Europea que está dispuesta a verificar la información por sí misma (si se les da la oportunidad). 
+
+En este gráfico se representan los datos correspondientes a siete naciones, entre las que se encuentran Italia, Hungría, España, Polonia, Francia, Países Bajos y Alemania. Para facilitar aun más la comprensión, se han ordenado los países de mayor a menor interés en verificar la información por sí mismos. Mediante el gráfico de barras se puede observar de manera rápida y clara la tendencia de los diferentes países europeos en los que se ha realizado la encuesta. Además, no solo se presentan los datos, sino que a continuación se analiza el gráfico y se explica porqué hay variación entre países. Por ejemplo, se expone que factores como la historia, la cultura, los medios de comunicación o la política son algunos de los más influyentes. 
+
+Este gráfico y el posterior análisis del mismo facilita la comprensión de los datos que menciona el artículo de manera visual. Es un complemento perfecto para el texto que lo precede y para hacer la lectura de este estudio más atractiva.

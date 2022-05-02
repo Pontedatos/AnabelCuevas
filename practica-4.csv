@@ -1,0 +1,136 @@
+﻿Código,Nombre,1: GASTOS DE PERSONAL,2: GASTOS CORRIENTES EN BIENES Y SERVICIOS,3: GASTOS FINANCIEROS,4: TRANSFERENCIAS CORRIENTES,5: FONDO DE CONTINGENCIA Y OTROS IMPREVISTOS,6: INVERSIONES REALES,7: TRANSFERENCIAS DE CAPITAL,8: ACTIVOS FINANCIEROS,9: PASIVOS FINANCIEROS
+,"Clasificación por programas",77198659.02,73573032.97,613271.26,6294124.25,528.74,33174136.93,80000.00,195100.00,0
+0,"DEUDA PÚBLICA",0,0,15000.00,0,0,0,0,0,0
+01,"Deuda Pública",0,0,15000.00,0,0,0,0,0,0
+011,"Deuda Pública",0,0,15000.00,0,0,0,0,0,0
+1,"SERVICIOS PÚBLICOS BÁSICOS",19082029.47,30794122.81,0,128000.00,0,18514157.84,0,0,0
+13,"Seguridad y movilidad ciudadana",15170530.93,6047800.03,0,3000.00,0,2698479.21,0,0,0
+130,"Administración general de la seguridad y protección civil",795849.99,390697.65,0,0,0,50000.00,0,0,0
+132,"Seguridad y Orden Público",14323046.44,395313.21,0,0,0,498000.00,0,0,0
+133,"Ordenación del tráfico y del estacionamiento",0,2010520.48,0,0,0,2006479.21,0,0,0
+134,"Movilidad urbana",0,6800.00,0,0,0,0,0,0,0
+135,"Protección civil",51634.50,135082.69,0,3000.00,0,144000.00,0,0,0
+136,"Servicio de prevención y extinción de incendios",0,3109386.00,0,0,0,0,0,0,0
+15,"Vivienda y urbanismo",3319633.24,3020067.77,0,125000.00,0,12994632.79,0,0,0
+150,"Administración General de Vivienda y urbanismo",0,0,0,0,0,0,0,0,0
+151,"Urbanismo: planeamiento, gestión, ejecución y disciplina urbanística",2697007.17,275279.30,0,0,0,4811261.33,0,0,0
+152,"Vivienda",0,0,0,125000.00,0,0,0,0,0
+1521,"Promoción y gestión de vivienda de protección pública",0,0,0,125000.00,0,0,0,0,0
+1522,"Conservación y rehabilitación de la edificación",0,0,0,0,0,0,0,0,0
+153,"Vías públicas",622626.07,2744788.47,0,0,0,8183371.46,0,0,0
+1531,"Acceso a los núcleos de población",0,0,0,0,0,0,0,0,0
+1532,"Pavimentación de vías públicas",622626.07,2744788.47,0,0,0,8183371.46,0,0,0
+16,"Bienestar comunitario",0,14343634.67,0,0,0,2171045.84,0,0,0
+160,"Alcantarillado",0,0,0,0,0,0,0,0,0
+161,"Abastecimiento domiciliario de agua potable",0,0,0,0,0,0,0,0,0
+162,"Recogida, gestión y tratamiento de residuos",0,7252499.96,0,0,0,30000.00,0,0,0
+1621,"Recogida de residuos",0,5952499.96,0,0,0,30000.00,0,0,0
+1622,"Gestión de residuos sólidos urbanos",0,1300000.00,0,0,0,0,0,0,0
+1623,"Tratamiento de residuos",0,0,0,0,0,0,0,0,0
+163,"Limpieza viaria",0,5139626.73,0,0,0,0,0,0,0
+164,"Cementerio y servicios funerarios",0,47000.00,0,0,0,0,0,0,0
+165,"Alumbrado público",0,1904507.98,0,0,0,2141045.84,0,0,0
+17,"Medio ambiente",591865.30,7382620.34,0,0,0,650000.00,0,0,0
+170,"Administración general del medio ambiente",591865.30,262082.11,0,0,0,0,0,0,0
+171,"Parques y jardines",0,7110538.23,0,0,0,200000.00,0,0,0
+172,"Protección y mejora del medio ambiente",0,10000.00,0,0,0,450000.00,0,0,0
+1721,"Protección contra la contaminación acústica, lumínica y atmosférica en las zonas urbanas",0,10000.00,0,0,0,450000.00,0,0,0
+2,"ACTUACIONES DE PROTECCIÓN Y PROMOCIÓN SOCIAL",3845389.23,3300296.06,0,2276324.13,0,112224.13,0,0,0
+21,"Pensiones",0,0,0,0,0,0,0,0,0
+211,"Pensiones",0,0,0,0,0,0,0,0,0
+22,"Otras prestaciones económicas a favor de empleados",0,0,0,0,0,0,0,0,0
+221,"Otras prestaciones económicas a favor de empleados",0,0,0,0,0,0,0,0,0
+23,"Servicios Sociales y promoción social",2535122.78,2879996.06,0,2266324.13,0,0,0,0,0
+231,"Asistencia social primaria",2535122.78,2879996.06,0,2266324.13,0,0,0,0,0
+24,"Fomento del Empleo",1310266.45,420300.00,0,10000.00,0,112224.13,0,0,0
+241,"Fomento del Empleo",1310266.45,420300.00,0,10000.00,0,112224.13,0,0,0
+3,"PRODUCCIÓN DE BIENES PÚBLICOS DE CARÁCTER PREFERENTE",26209743.70,23111950.81,30400.00,1672746.88,0,4000893.91,0,0,0
+31,"Sanidad",1762335.70,410562.63,0,0,0,0,0,0,0
+311,"Protección de la salubridad pública",1266601.78,410562.63,0,0,0,0,0,0,0
+312,"Hospitales, servicios asistenciales y centros de salud",495733.92,0,0,0,0,0,0,0,0
+32,"Educación",7892289.81,5273796.08,0,979000.00,0,229066.76,0,0,0
+320,"Administración general de educación",914822.98,2724095.57,0,0,0,10200.00,0,0,0
+321,"Creación de Centros docentes de enseñanza preescolar y primaria",0,0,0,0,0,0,0,0,0
+322,"Creación de Centros docentes de enseñanza secundaria",0,0,0,0,0,0,0,0,0
+323,"Funcionamiento de centros docentes de enseñanza preescolar y primaria y educación especial",2528246.78,666306.72,0,0,0,80226.68,0,0,0
+324,"Funcionamiento de centros docentes de enseñanza secundaria",0,0,0,0,0,0,0,0,0
+325,"Vigilancia del cumplimiento de la escolaridad obligatoria",0,0,0,0,0,0,0,0,0
+326,"Servicios complementarios de educación",4449220.05,1883393.79,0,979000.00,0,138640.08,0,0,0
+327,"Fomento de la convivencia ciudadana",0,0,0,0,0,0,0,0,0
+33,"Cultura",9133604.88,7213933.61,400.00,291050.00,0,1566827.15,0,0,0
+330,"Administración general de cultura",2751153.87,41128.00,400.00,0,0,0,0,0,0
+332,"Bibliotecas y Archivos",1331367.54,864460.98,0,8000.00,0,51641.10,0,0,0
+3321,"Bibliotecas públicas",1331367.54,864460.98,0,8000.00,0,51641.10,0,0,0
+3322,"Archivos",0,0,0,0,0,0,0,0,0
+333,"Equipamientos culturales y museos",1140362.06,1593090.85,0,10000.00,0,1004385.85,0,0,0
+334,"Promoción cultural",495280.35,1981982.86,0,155250.00,0,133933.58,0,0,0
+336,"Protección y gestión del Patrimonio Histórico-Artístico",0,0,0,0,0,0,0,0,0
+337,"Instalaciones de ocupación del tiempo libre",2518948.03,1978458.20,0,117800.00,0,42300.00,0,0,0
+338,"Fiestas populares y festejos",896493.03,754812.72,0,0,0,334566.62,0,0,0
+34,"Deporte",7421513.31,10213658.49,30000.00,402696.88,0,2205000.00,0,0,0
+340,"Administración general de deportes",1558407.32,1733119.96,0,0,0,0,0,0,0
+341,"Promoción y fomento del deporte",0,315105.00,0,402696.88,0,0,0,0,0
+342,"Instalaciones deportivas",5863105.99,8165433.53,30000.00,0,0,2205000.00,0,0,0
+4,"ACTUACIONES DE CARÁCTER ECONÓMICO",380811.28,614118.65,0,888000.00,0,1322695.00,0,0,0
+41,"Agricultura, Ganadería y Pesca",0,0,0,0,0,0,0,0,0
+410,"Administración general de agricultura, ganadería y pesca",0,0,0,0,0,0,0,0,0
+412,"Mejora de las estructuras agropecuarias y de los sistemas productivos",0,0,0,0,0,0,0,0,0
+414,"Desarrollo rural",0,0,0,0,0,0,0,0,0
+415,"Protección y desarrollo de los recursos pesqueros",0,0,0,0,0,0,0,0,0
+419,"Otras actuaciones en agricultura, ganadería y pesca",0,0,0,0,0,0,0,0,0
+42,"Industria y energía",0,0,0,0,0,0,0,0,0
+420,"Administración General de Industria y energía",0,0,0,0,0,0,0,0,0
+422,"Industria",0,0,0,0,0,0,0,0,0
+423,"Minería",0,0,0,0,0,0,0,0,0
+425,"Energía",0,0,0,0,0,0,0,0,0
+43,"Comercio, turismo y pequeñas y medianas empresas",0,2071.15,0,795000.00,0,0,0,0,0
+430,"Administración general de comercio, turismo y pequeñas y medianas empresas",0,0,0,185000.00,0,0,0,0,0
+431,"Comercio",0,500.00,0,0,0,0,0,0,0
+4311,"Ferias",0,0,0,0,0,0,0,0,0
+4312,"Mercados, abastos y lonjas",0,0,0,0,0,0,0,0,0
+4313,"Comercio ambulante",0,500.00,0,0,0,0,0,0,0
+432,"Información y promoción turística",0,1571.15,0,610000.00,0,0,0,0,0
+433,"Desarrollo empresarial",0,0,0,0,0,0,0,0,0
+439,"Otras actuaciones sectoriales",0,0,0,0,0,0,0,0,0
+44,"Transporte público",105874.91,581447.50,0,93000.00,0,0,0,0,0
+440,"Administración general del transporte",105874.91,0,0,0,0,0,0,0,0
+441,"Transporte de viajeros",0,581447.50,0,93000.00,0,0,0,0,0
+4411,"Transporte colectivo urbano de viajeros",0,581447.50,0,93000.00,0,0,0,0,0
+4412,"Otro transporte de viajeros",0,0,0,0,0,0,0,0,0
+442,"Infraestructuras del transporte",0,0,0,0,0,0,0,0,0
+443,"Transporte de mercancías",0,0,0,0,0,0,0,0,0
+45,"Infraestructuras",0,0,0,0,0,0,0,0,0
+450,"Administración general de infraestructuras",0,0,0,0,0,0,0,0,0
+452,"Recursos Hidráulicos",0,0,0,0,0,0,0,0,0
+453,"Carreteras",0,0,0,0,0,0,0,0,0
+454,"Caminos vecinales",0,0,0,0,0,0,0,0,0
+459,"Otras infraestructuras",0,0,0,0,0,0,0,0,0
+46,"Investigación, desarrollo e innovación",0,0,0,0,0,0,0,0,0
+462,"Investigación y estudios relacionados con los servicios públicos",0,0,0,0,0,0,0,0,0
+463,"Investigación científica, técnica y aplicada",0,0,0,0,0,0,0,0,0
+49,"Otras actuaciones de carácter económico",274936.37,30600.00,0,0,0,1322695.00,0,0,0
+491,"Sociedad de la información",0,0,0,0,0,1322695.00,0,0,0
+492,"Gestión del conocimiento",0,0,0,0,0,0,0,0,0
+493,"Protección de consumidores y usuarios",274936.37,30600.00,0,0,0,0,0,0,0
+9,"ACTUACIONES DE CARÁCTER GENERAL",27680685.34,15752544.64,567871.26,1329053.24,528.74,9224166.05,80000.00,195100.00,0
+91,"Órganos de gobierno",3717550.99,56751.68,0,1314982.76,0,0,80000.00,0,0
+912,"Órganos de gobierno",3717550.99,56751.68,0,1314982.76,0,0,80000.00,0,0
+92,"Servicios de carácter general",19386971.65,12857316.48,0,14070.48,528.74,8282205.03,0,195100.00,0
+920,"Administración General",14687642.91,12193615.33,0,0,0,8282205.03,0,195100.00,0
+922,"Coordinación y organización institucional de las entidades locales",770723.85,5340.40,0,0,0,0,0,0,0
+923,"Información básica y estadística",784562.13,528790.00,0,0,0,0,0,0,0
+9231,"Gestión del Padrón Municipal de Habitantes",784562.13,528790.00,0,0,0,0,0,0,0
+924,"Participación ciudadana",502648.73,10500.00,0,14070.48,0,0,0,0,0
+925,"Atención a los ciudadanos",2397235.73,76070.75,0,0,0,0,0,0,0
+926,"Comunicaciones internas",244158.30,43000.00,0,0,0,0,0,0,0
+929,"Imprevistos, situaciones transitorias y contingencias de ejecución",0,0,0,0,528.74,0,0,0,0
+93,"Administración financiera y tributaria",4576162.70,2838476.48,567871.26,0,0,941961.02,0,0,0
+931,"Política económica y fiscal",1752170.43,121600.00,0,0,0,0,0,0,0
+932,"Gestión del sistema tributario",1945876.80,52307.61,0,0,0,0,0,0,0
+933,"Gestión del patrimonio",191922.55,2664568.87,0,0,0,941961.02,0,0,0
+934,"Gestión de la deuda y de la tesorería",686192.92,0,567871.26,0,0,0,0,0,0
+94,"Transferencias a otras Administraciones Públicas",0,0,0,0,0,0,0,0,0
+941,"Transferencias a Comunidades Autónomas",0,0,0,0,0,0,0,0,0
+942,"Transferencias a Entidades Locales territoriales",0,0,0,0,0,0,0,0,0
+943,"Transferencias a otras Entidades Locales",0,0,0,0,0,0,0,0,0
+944,"Transferencias a la Administración General del Estado",0,0,0,0,0,0,0,0,0
