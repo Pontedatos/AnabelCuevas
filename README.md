@@ -33,6 +33,7 @@ Esta última práctica consistía en crear un nuevo *notebook* de Python en Jupy
 - [Explicación Práctica 4](https://github.com/Pontedatos/AnabelCuevas/blob/df858f626443dd587e929779427f41f79ac0d5b4/practica-4.md)
 - [Análisis del Presupuesto Funcional de Gastos de 2022 en ipynb](https://github.com/Pontedatos/AnabelCuevas/blob/643ca68d76b5e769a30d763fcf7a83990c47473c/python-csv-gastos-pandas.ipynb)
 - [Análisis del Presupuesto Funcional de Gastos de 2022 en html](https://github.com/Pontedatos/AnabelCuevas/blob/643ca68d76b5e769a30d763fcf7a83990c47473c/python-csv-gastos-pandas.html)
+- [Datos utilizados en csv](https://github.com/Pontedatos/AnabelCuevas/blob/19a7436d3f187f354e0dc3fa4168cc38bd5f2619/practica-4.csv)
 
 ## Metodología empleada para realizar esta práctica
 
