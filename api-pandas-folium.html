@@ -13082,8 +13082,8 @@ div#notebook {
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h1 id="Creaci&#243;n-de-un-mapa-de-Zaragoza-a-partir-de-un-archivo-cvs">Creaci&#243;n de un mapa de Zaragoza a partir de un archivo cvs<a class="anchor-link" href="#Creaci&#243;n-de-un-mapa-de-Zaragoza-a-partir-de-un-archivo-cvs">&#182;</a></h1><h3 id="Configuraci&#243;n-de-pandas-y-creaci&#243;n-de-variables">Configuraci&#243;n de pandas y creaci&#243;n de variables<a class="anchor-link" href="#Configuraci&#243;n-de-pandas-y-creaci&#243;n-de-variables">&#182;</a></h3><p>Para la creación de este mapa es necesario crear diferentes varibles e importar librerías</p>
-<p>Se definen las variables 'url_zrgz' y 'geo_zrgz'</p>
+<h1 id="Creaci&#243;n-de-un-mapa-de-Zaragoza-a-partir-de-un-archivo-csv">Creaci&#243;n de un mapa de Zaragoza a partir de un archivo csv<a class="anchor-link" href="#Creaci&#243;n-de-un-mapa-de-Zaragoza-a-partir-de-un-archivo-csv">&#182;</a></h1><h3 id="Configuraci&#243;n-de-pandas-y-creaci&#243;n-de-variables">Configuraci&#243;n de pandas y creaci&#243;n de variables<a class="anchor-link" href="#Configuraci&#243;n-de-pandas-y-creaci&#243;n-de-variables">&#182;</a></h3><p>Para la creación de este mapa es necesario crear diferentes varibles e importar librerías</p>
+<p>Se definen las variables <code>url_zrgz</code> y <code>geo_zrgz</code></p>
 
 </div>
 </div>
@@ -13152,7 +13152,7 @@ Requirement already satisfied: idna&lt;3,&gt;=2.5 in /usr/lib/python3/dist-packa
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h3 id="Importar-librer&#237;as">Importar librer&#237;as<a class="anchor-link" href="#Importar-librer&#237;as">&#182;</a></h3><p>Se importan las liberías folium y panda y se redefine esta última como pd</p>
+<h3 id="Importar-librer&#237;as">Importar librer&#237;as<a class="anchor-link" href="#Importar-librer&#237;as">&#182;</a></h3><p>Se importan las liberías folium y panda mediante <code>import</code> y se redefine esta última como pd</p>
 
 </div>
 </div>
@@ -13174,7 +13174,8 @@ Requirement already satisfied: idna&lt;3,&gt;=2.5 in /usr/lib/python3/dist-packa
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h3 id="Creanos-el-mapa">Creanos el mapa<a class="anchor-link" href="#Creanos-el-mapa">&#182;</a></h3>
+<h3 id="Creanos-el-mapa">Creanos el mapa<a class="anchor-link" href="#Creanos-el-mapa">&#182;</a></h3><p>Para crear el mapa, necesitamos el comando <code>mapa_zrgz</code> e indicar a continuación que los datos se encuentran en la librería folium y establecer que la localización es igual a <code>geo_zrgz</code>, variable ya definida anteriormente</p>
+
 </div>
 </div>
 </div>
@@ -13194,7 +13195,8 @@ Requirement already satisfied: idna&lt;3,&gt;=2.5 in /usr/lib/python3/dist-packa
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h3 id="Mostramos-el-mapa">Mostramos el mapa<a class="anchor-link" href="#Mostramos-el-mapa">&#182;</a></h3>
+<h3 id="Mostramos-el-mapa">Mostramos el mapa<a class="anchor-link" href="#Mostramos-el-mapa">&#182;</a></h3><p>Para mostrar el mapa, solo es necesario volver a escribir la varibale que se acaba de definir: <code>mapa_zrgz</code></p>
+
 </div>
 </div>
 </div>
@@ -13233,7 +13235,9 @@ Requirement already satisfied: idna&lt;3,&gt;=2.5 in /usr/lib/python3/dist-packa
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h3 id="Creamos-un-dataframe">Creamos un dataframe<a class="anchor-link" href="#Creamos-un-dataframe">&#182;</a></h3><p>El dataframe de pandas creado a partir de un archivo csv, lo llamamos df_zrgz y sus datos están delimitados por ;</p>
+<h3 id="Creamos-un-dataframe">Creamos un dataframe<a class="anchor-link" href="#Creamos-un-dataframe">&#182;</a></h3><p>Según la <a href="https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.html">documentación oficial de pandas</a>, un dataframe es una estructura de datos de dos dimensiones "de tamaño variable y potencialmente heterogéneos".</p>
+<p>Como hemos visto en clase, csv es un tipo de formato de datos, el más sencillo de usar.</p>
+<p>El dataframe de pandas lo hemos creado a partir de un archivo csv. A continuación lo hemos definido mediante <code>df_zrgz</code> y hemo sindicado que sus datos están delimitados por <code>;</code> mediante el argumento <code>delimiter</code></p>
 <p>A continuación, lo mostramos</p>
 
 </div>
@@ -14366,7 +14370,8 @@ Requirement already satisfied: idna&lt;3,&gt;=2.5 in /usr/lib/python3/dist-packa
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h3 id="Mostramos-el-nombre-de-las-comunas-del-dataframe">Mostramos el nombre de las comunas del dataframe<a class="anchor-link" href="#Mostramos-el-nombre-de-las-comunas-del-dataframe">&#182;</a></h3>
+<h3 id="Mostramos-el-nombre-de-las-comunas-del-dataframe">Mostramos el nombre de las comunas del dataframe<a class="anchor-link" href="#Mostramos-el-nombre-de-las-comunas-del-dataframe">&#182;</a></h3><p>Se puede mostrar el nombre de las columnas de la tabla mediante <code>df.columns</code></p>
+
 </div>
 </div>
 </div>
@@ -14411,7 +14416,8 @@ Requirement already satisfied: idna&lt;3,&gt;=2.5 in /usr/lib/python3/dist-packa
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <h3 id="Mostramos-la-informaci&#243;n-del-dataframe">Mostramos la informaci&#243;n del dataframe<a class="anchor-link" href="#Mostramos-la-informaci&#243;n-del-dataframe">&#182;</a></h3><p>Mostramos la tabla como objeto de pandas</p>
-<p>Muestra información sobre el dataframe entre la que incluye el índice (RangeIndex) con el número de entradas, el número de columnas que hay (Data Columns), el nombre de las columnas (Colum), la cantidad de datos nulos que posee la tabla (Non-Null Count), el tipo de variable de las columnas (Dtype) y el tamaño (memory usage)</p>
+<p>Mediante <code>df_zrgz.info()</code>se muestra la información de la tabla</p>
+<p>Según la <a href="https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.info.html">página web de pandas</a>, muestra información sobre el dataframe entre la que incluye el índice (RangeIndex) con el número de entradas, el número de columnas que hay (Data Columns), el nombre de las columnas (Colum), la cantidad de datos nulos que posee la tabla (Non-Null Count), el tipo de variable de las columnas (Dtype) y el tamaño (memory usage)</p>
 
 </div>
 </div>
@@ -14474,7 +14480,8 @@ memory usage: 6.5+ KB
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h3 id="Mostramos-una-columna">Mostramos una columna<a class="anchor-link" href="#Mostramos-una-columna">&#182;</a></h3><h4 id="Columna-reason">Columna reason<a class="anchor-link" href="#Columna-reason">&#182;</a></h4><p>Mostramos la columna reason</p>
+<h3 id="Mostramos-una-columna">Mostramos una columna<a class="anchor-link" href="#Mostramos-una-columna">&#182;</a></h3><h4 id="Columna-reason">Columna reason<a class="anchor-link" href="#Columna-reason">&#182;</a></h4><p>También se pueden mostrar columnas en concreto mediante <code>df['nombre de la columna']</code></p>
+<p>A continuación se ejemplifica con la columna "reason"</p>
 
 </div>
 </div>
@@ -14565,7 +14572,7 @@ Name: reason, dtype: object</pre>
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>Mostramos los valores que no se repiten de la columna reason</p>
+<p>Ahora, además de mostrar la columna reason, medainte <code>unique()</code> mostramos los valores únicos, es decir, los valores que no se repiten en la columna que hemos indicado</p>
 
 </div>
 </div>
@@ -14618,7 +14625,7 @@ Name: reason, dtype: object</pre>
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h4 id="Columna-type">Columna type<a class="anchor-link" href="#Columna-type">&#182;</a></h4><p>Mostramos los valores que no se repiten de la columna type</p>
+<h4 id="Columna-type">Columna type<a class="anchor-link" href="#Columna-type">&#182;</a></h4><p>A continuación, mostramos los valores que no se repiten de la columna type</p>
 
 </div>
 </div>
@@ -14661,7 +14668,7 @@ Name: reason, dtype: object</pre>
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h4 id="Columna-geometry">Columna geometry<a class="anchor-link" href="#Columna-geometry">&#182;</a></h4><p>Mostramos la columna geometry</p>
+<h4 id="Columna-geometry">Columna geometry<a class="anchor-link" href="#Columna-geometry">&#182;</a></h4><p>Mostramos la columna geometry poniendo su nombre entre <code>[]</code></p>
 
 </div>
 </div>
