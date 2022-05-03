@@ -19,16 +19,18 @@ Esta segunda práctica consistía en crear un artículo a partir de trabajos de 
 
 La práctica 3 consistió en completar y comentar los *notebooks* que creamos en Jupyter -los "notebooks" "barchart" y "api-pandas-folium"-, explicando los pasos que habíamos seguido y dejando claro cuáles no habíamos comprendido aun. Una vez hechos, era requisito también descargarlos en "ipynb" y "html" para posteriormente subirlos a nuestro repositorio de GitHub.
 
-- [API COVID 19 Pandas en ipynb](https://github.com/Pontedatos/AnabelCuevas/blob/643ca68d76b5e769a30d763fcf7a83990c47473c/python-api-covid19-pandas.ipynb)
-- [API COVID 19 Pandas en html](https://github.com/Pontedatos/AnabelCuevas/blob/643ca68d76b5e769a30d763fcf7a83990c47473c/python-api-covid19-pandas.html)
-- [API Pandas Folium en ipynb](https://github.com/Pontedatos/AnabelCuevas/blob/643ca68d76b5e769a30d763fcf7a83990c47473c/api-pandas-folium.ipynb)
-- [API Pandas Folium en html](https://github.com/Pontedatos/AnabelCuevas/blob/643ca68d76b5e769a30d763fcf7a83990c47473c/api-pandas-folium.html)
+- [Explicación Práctica 3](https://github.com/Pontedatos/AnabelCuevas/blob/df858f626443dd587e929779427f41f79ac0d5b4/practica-3.md)
+- [API COVID 19 Pandas en ipynb](https://github.com/Pontedatos/AnabelCuevas/blob/df858f626443dd587e929779427f41f79ac0d5b4/python-api-covid19-pandas.ipynb)
+- [API COVID 19 Pandas en html](https://github.com/Pontedatos/AnabelCuevas/blob/df858f626443dd587e929779427f41f79ac0d5b4/python-api-covid19-pandas.html)
+- [API Pandas Folium en ipynb](https://github.com/Pontedatos/AnabelCuevas/blob/df858f626443dd587e929779427f41f79ac0d5b4/api-pandas-folium.ipynb)
+- [API Pandas Folium en html](https://github.com/Pontedatos/AnabelCuevas/blob/df858f626443dd587e929779427f41f79ac0d5b4/api-pandas-folium.html)
 
 
 ## Práctica 4 
 
 Esta última práctica consistía en crear un nuevo *notebook* de Python en Jupyter donde, habiendo elegido unos datos concretos, se debía analizar, visualizar y bosquejar una historia con ellos. También era necesario descargarlos en "ipynb" y "html" para posteriormente subirlos a nuestro repositorio de GitHub. En mi caso, me basé en un Análisis del Presupuesto Funcional de Gastos de 2022 obtenido en la página [datos.gob.es](https://datos.gob.es/es).
 
+- [Explicación Práctica 4](https://github.com/Pontedatos/AnabelCuevas/blob/df858f626443dd587e929779427f41f79ac0d5b4/practica-4.md)
 - [Análisis del Presupuesto Funcional de Gastos de 2022 en ipynb](https://github.com/Pontedatos/AnabelCuevas/blob/643ca68d76b5e769a30d763fcf7a83990c47473c/python-csv-gastos-pandas.ipynb)
 - [Análisis del Presupuesto Funcional de Gastos de 2022 en html](https://github.com/Pontedatos/AnabelCuevas/blob/643ca68d76b5e769a30d763fcf7a83990c47473c/python-csv-gastos-pandas.html)
 
