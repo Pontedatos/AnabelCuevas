@@ -6,7 +6,7 @@ En este repositorio se encuentra una recopilación de las prácticas de **Anabel
 
 Esta práctica se dividió en dos comentarios diferentes. En primer lugar, se debía  analizar y comentar proyecto TRESCA. El segundo comentario era de elección libre, y debía consistir en un análisis de un artículo que poseyera un ejemplo de aplicación de Periodismo de Datos. 
 
- - [Proyecto - TRESCA](https://GitHub.com/Pontedatos/AnabelCuevas/blob/6d6ec158cd9b53b74733d93898e1a2e2eb92ca01/practica-1-tresca.md) 
+ - [Proyecto - TRESCA](practica-1-libre.md) 
 - [Comentario del artículo *Mapping America's wicked weather and deadly disasters* de *The Washington Post*](https://GitHub.com/Pontedatos/AnabelCuevas/blob/6d6ec158cd9b53b74733d93898e1a2e2eb92ca01/practica-1-libre.md) 
 
 ## Práctica 2 
