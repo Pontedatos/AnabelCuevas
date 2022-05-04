@@ -46,5 +46,5 @@ En el siguiente archivo .md se encuentran los pasos que se han seguido para llev
 
 A continuación se enlaza un archivo .md en el que se recogen los principales aspectos aprendidos a lo largo de la asignatura Periodismo de Datos. 
 
-- [Resumen]()
+- [Resumen](https://github.com/Pontedatos/AnabelCuevas/blob/9a7be9f013e26b026cb939610dd5a9df334ccc84/resumen.md)
 
