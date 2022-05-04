@@ -59,18 +59,18 @@ A continuación instalamos la apt: `install apt-cyg /bin`
 
 Como ya se ha comentado, esta apt ya nos permitió instalar nano (`apt-cyg install nano`).
 
-## Versión del lenguaje de SHELL utilizado.
+## Versión del lenguaje de SHELL utilizado
 
 Shell, como hemos visto en esta asignatura, es el idioma de la terminal (dentro está BASH y CSH: Windows y Mac respectivamente). En el caso de no conocer el lenguaje Shell que se está empleando, se puede escribir en la terminal la variable de entorno `$0`(mediante `echo $0`) para que nos indique el lenguaje. En ambos casos (en Ubuntu y en Cygwin) el lenguaje usado es `bash`. 
 
-## Valor de la variable de entorno PATH.
+## Valor de la variable de entorno PATH
 
 Según la [página de Microsoft](https://support.microsoft.com/es-es/topic/c%C3%B3mo-administrar-variables-de-entorno-en-windows-xp-5bf6725b-655e-151c-0b55-9a8c9c7f747d), una variable de entorno es una cadena que contiene información acerca del entorno para el sistema y el usuario que ha iniciado sesión en ese momento. Las variables de entorno empiezan por el símbolo `$` (que no se debe confundir con el que aparece al principio de la línea en Cygwin). 
 
 Un ejemplo de variable de entorno es `$HOME`, que indica la ruta de nuestro usuario. Otro ejemplo es `$PATH`,  que muestra las rutas de los programas instalados que puede ejecutar la terminal. 
 Para conocer estas variables necesitamos ayudarnos de `echo`, de manera que pondríamos: `echo $PATH` o `echo $HOME`. Además, para conocer todas las variables de entorno podemos emplear el comando `env`. 
 
-## Comandos utilizados y ejemplos.
+## Comandos utilizados 
 
 - `cat` → comando que se usa para concatenar (unir o enlazar) dos o más cosas, pero también lo hemos usado para previsualizar, por ejemplo ponemos `cat README.md` para previsualizar este archivo
 - `cd` → sirve para cambiar el directorio, pero también para cambiar de sitio un archivo 
