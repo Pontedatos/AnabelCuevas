@@ -1,6 +1,6 @@
 # Recopilación de prácticas de Periodismo de Datos
 
-En este repositorio se encuentra una recopilación de las prácticas de **Anabel Cuevas** Vega de la asignatura Periodismo de Datos. 
+En este repositorio se encuentra una recopilación de las prácticas de **Anabel Cuevas Vega** de la asignatura Periodismo de Datos. 
 
 ## Práctica 1 
 
