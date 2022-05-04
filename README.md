@@ -2,7 +2,7 @@
 
 En este repositorio se encuentra una recopilación de las prácticas de **Anabel Cuevas** Vega de la asignatura Periodismo de Datos. 
 
-## Práctica 1
+## Práctica 1 
 
 Esta práctica se dividió en dos comentarios diferentes. En primer lugar, se debía  analizar y comentar proyecto TRESCA. El segundo comentario era de elección libre, y debía consistir en un análisis de un artículo que poseyera un ejemplo de aplicación de Periodismo de Datos. 
 
