@@ -25,7 +25,9 @@ El diario británico *The Guardian* es actualmente un medio de comunicación de 
 **Internet** es “una red de redes”, es decir, un sistema de ordenadores interconectados mundialmente. Conviene destacar que su funcionamiento se basa en los protocolos  TCP/IP. TCP son las siglas en inglés de *Transmission Control Protocol* o protocolo de control de la transmisión, mientras que IP se corresponde con *Internet Protocol* o protocolo de Internet (una dirección de red local). 
 
 4. Qué es la web
+
 La **web** (forma de abreviar *World Wide Web*) es una recopilación de páginas que depende de la red de ordenadores que es Internet. Esto implica un nivel de dependencia de la web con respecto a Internet. La web sirve para transmitir diversos tipos de datos. 
+
 5. ¿Qué significa URL?
 
 Las siglas *URL* se corresponden en inglés a *Unified Resource Locator* o localizador de recursos uniforme. Se incluye dentro de la web, es decir, se trata de una dirección (a menudo se habla de “dirección URL”) que se corresponde con un lugar único en la web (cada URL se corresponde con un único lugar). 
