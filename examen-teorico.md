@@ -12,7 +12,7 @@ Florence Nightingale fue una enfermera, escritora y estatista italiana que vivi�
 
 # Preguntas del Bloque A
 
-1. **¿Qué medio inglés es fundamental en el periodismo y la visualización de datos? **
+1. **¿Qué medio inglés es fundamental en el periodismo y la visualización de datos?**
 
 El diario británico *The Guardian* es actualmente un medio de comunicación de referencia en cuanto al periodismo de datos. Su tratamiento y visualización de los datos (integrados en muchas de sus informaciones, reportajes, noticias…) son un ejemplo de la utilidad del periodismo de datos en el día a día. Este medio, según hemos visto a lo largo de este curso, destacó en 2008 por el equipo de su *Datablog*, formado por Simon Rogers y Paul Bradshaw. 
 
