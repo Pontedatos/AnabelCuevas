@@ -7,12 +7,12 @@ De hecho, [Naciones Unidas](http://data2.unhcr.org/en/situations/ukraine) ya con
 A Polonia han llegado ya 1,5 millones de refugiados, es el país que más ha recibido. Eslovaquia ha recibido más de 176.000, Hungría más de 225.000, Moldavia más de 104.000 y Rumanía cerca de 85.000. Además, ha habido un millón de nuevos desplazamientos internos en Ucrania. Las autoridades de Rusia, de hecho, habían informado estos días de que unas 200.000 personas habían llegado desde Ucrania.
 
 *[Mapa de los refugiados en Ucrania](http://data2.unhcr.org/en/situations/ukraine)*
-![Image text](https://github.com/AnabelCuevas/repositorio-anabelcuevas/blob/main/mapa-refugiados-ucranianos-11-marzo.png)
+![Image text](mapa-refugiados-ucranianos-11-marzo.png)
 
 El número de refugiados ha ido aumentando progresivamente desde que el presidente ruso, Vladimir Putin, anunció una operación militar en el país el pasado 24 de febrero. En el gráfico siguiente se muestra la evolución de los refugiados ucranianos que han salido de sus fronteras por la guerra. 
 
 *<a href="https://www.epdata.es/embed/fc5de9dc-3fe0-4cf3-8d89-dde1085c15cb/450 ">Gráfico de refugiados ucranianos</a>*
-![Image text](https://github.com/AnabelCuevas/repositorio-anabelcuevas/blob/main/grafico-refugiados-ucranianos.png)
+![Image text](grafico-refugiados-ucranianos.png)
 
 ### Incursiones militares rusas
 
@@ -24,7 +24,7 @@ Además, el presidente de la administración de la región de Volyn, Yuri Poguli
 
 *[Ataques militares en Ucrania a 11 de marzo](https://img.europapress.es/fotoweb/fotonoticia_20220228121855_9999_v22.webp)*
 
-![Image text](https://github.com/AnabelCuevas/repositorio-anabelcuevas/blob/main/ataques-ucrania-11-marzo.png)
+![Image text](ataques-ucrania-11-marzo.png)
 
 Para esta práctica me he basado en los siguientes artículos o páginas web:
 
